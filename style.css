@@ -1,0 +1,106 @@
+body{
+    margin:0;
+    font-family: Inter,sans-serif;
+  
+}
+
+.header{
+    width: 100%;
+    height: 50px;
+    box-shadow: 0px -8px 14px;
+    
+}
+.div1 {
+    float:left;
+    width:20%;
+    
+}
+.div1 h2{
+    margin-left:65px;
+    margin-top:6px;
+}
+.div2{
+    float:left;
+    text-align:center;
+    width:60%;
+    margin-top:15px;
+    
+}
+.div2 a{
+    text-align:center;
+    text-decoration:none;
+    margin-left:25px;
+    color: rgb(155, 155, 155);
+     font-family: 'Nunito', sans-serif;
+}
+.div3 input{
+ padding:5px;
+ border-bottom:1px solid black;
+ border-top:none;
+ border-left:none;
+ border-right:none;
+}
+
+
+.section{
+    margin:0% 6%;
+    margin-top:30px;
+}
+.section p{
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.sectiondiv1{
+    width:100%;
+    height:310px;
+    
+}
+.sectiondiv1 a{
+      text-decoration:none;
+      color:black;  
+}
+.history1{
+    width:260px;
+    height:310px;
+    float:left;
+   
+}
+.history2{
+    width:260px;
+    height:310px;
+    float:left;
+    margin-left:50px;
+}
+.history3{
+    width:260px;
+    height:310px;
+    float:left;
+    margin-left:50px;
+}
+.history4{
+    width:260px;
+    height:310px;
+    float:right;
+    
+}
+
+.dateview3 {
+margin-top: -25px;
+}
+.sectiondiv2 {
+    width:100%;
+    height:310px;
+   
+    margin-top:30px;
+}
+.sectiondiv2 a{
+    text-decoration:none;
+    color:black;  
+}
+.dateview5{
+    margin-top:-25px;
+}
+.dateview8{
+    margin-top:-25px;
+}
