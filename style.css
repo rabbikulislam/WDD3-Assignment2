@@ -92,7 +92,7 @@ margin-top: -25px;
     width:100%;
     height:310px;
    
-    margin-top:30px;
+    margin-top:40px;
 }
 .sectiondiv2 a{
     text-decoration:none;
@@ -103,4 +103,22 @@ margin-top: -25px;
 }
 .dateview8{
     margin-top:-25px;
+}
+.reload{
+    margin-top:90px;
+    color: rgb(174, 174, 178);
+    font-size: 30px;
+    cursor: pointer;
+    text-align:center;
+    height:60px;
+}
+.articlename{
+    height:145px;
+    
+    margin:0% 6%;
+   
+}
+.articlename h1{
+    
+    text-transform: capitalize;
 }
