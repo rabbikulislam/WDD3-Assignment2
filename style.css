@@ -3,13 +3,95 @@ body{
     font-family: Inter,sans-serif;
   
 }
-
-.header{
-    width: 100%;
-    height: 50px;
-    box-shadow: 0px -8px 14px;
+.roarmedia{
+    border-bottom:.5px solid #F2F2F7;
+   
+    height:70px;
+}
+.roarmedia1{
+   width:40%;
+   
+    float:left;
+    height:70px;
+}
+.roarmedia1 h2 img{
+    
+    margin-left: 50px;
+    margin-top: -6px;
     
 }
+.roarmedia2{
+    width:15%;
+    
+    border-left:.5px solid #F2F2F7;
+    border-right:.5px solid #F2F2F7;
+    float:left;
+    height:70px;
+    font-size: 20px;
+}
+.roarmedia2 i{
+    margin-top:22px;
+    margin-right:5px;
+}
+.roarmedia2 a{
+    margin-left:70px;
+    color:rgba(59, 59, 58, 0.904);
+    text-decoration:none;
+    text-transform: capitalize;
+}
+ .roarmedia3{
+    width:8%;
+   
+    float:left;
+    height:70px;
+}
+ .roarmedia3 i{
+     font-size: 25px;
+     margin: 19% 39%;
+     color:rgba(59, 59, 58, 0.904);
+ }
+ .roarmedia4{
+    width:16%;
+    border-left:.5px solid #F2F2F7;
+    border-right:.5px solid #F2F2F7;
+    float:left;
+    height:70px;
+}
+.roarmedia4 a span{
+    float: right;
+    margin-top: 27px;
+    margin-right: 20px;
+    color:rgba(59, 59, 58, 0.904);
+    font-size: 15px;
+ }
+ 
+ .roarmedia5{
+    width:16%;
+    border-right:.5px solid #F2F2F7;
+    float:left;
+    height:70px;
+ }
+ .roarmedia5 a i{
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top:20px;
+    color:rgba(59, 59, 58, 0.904);
+ }
+ .roarmedia5 a span{
+    font-weight: 500;
+    float: right;
+    margin-top: 25px;
+    margin-right: 12px;
+    color:rgba(59, 59, 58, 0.904);
+ }
+.header{
+    width:100%;
+    height: 50px;
+    box-shadow: 0px 5px 14px -12px;
+}
+
+    
+
 .div1 {
     float:left;
     width:20%;
@@ -22,7 +104,7 @@ body{
 .div2{
     float:left;
     text-align:center;
-    width:60%;
+    width:80%;
     margin-top:15px;
     
 }
